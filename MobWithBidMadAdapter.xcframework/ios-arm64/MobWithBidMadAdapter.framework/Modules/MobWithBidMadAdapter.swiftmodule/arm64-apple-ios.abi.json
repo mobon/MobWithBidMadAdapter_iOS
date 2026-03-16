@@ -1,0 +1,226 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "MobWithBidMadAdapter",
+    "printedName": "MobWithBidMadAdapter",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobWithBidMadAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MobWithADSDKFramework",
+        "printedName": "MobWithADSDKFramework",
+        "declKind": "Import",
+        "moduleName": "MobWithBidMadAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "OpenBiddingHelper",
+        "printedName": "OpenBiddingHelper",
+        "declKind": "Import",
+        "moduleName": "MobWithBidMadAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobWithBidMadAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "OSLog",
+        "printedName": "OSLog",
+        "declKind": "Import",
+        "moduleName": "MobWithBidMadAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobWithBidMadAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobWithBidMadAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MobWithADSDKFramework",
+        "printedName": "MobWithADSDKFramework",
+        "declKind": "Import",
+        "moduleName": "MobWithBidMadAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "OpenBiddingHelper",
+        "printedName": "OpenBiddingHelper",
+        "declKind": "Import",
+        "moduleName": "MobWithBidMadAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobWithBidMadAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MobWithADSDKFramework",
+        "printedName": "MobWithADSDKFramework",
+        "declKind": "Import",
+        "moduleName": "MobWithBidMadAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "OpenBiddingHelper",
+        "printedName": "OpenBiddingHelper",
+        "declKind": "Import",
+        "moduleName": "MobWithBidMadAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobWithBidMadAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MobWithADSDKFramework",
+        "printedName": "MobWithADSDKFramework",
+        "declKind": "Import",
+        "moduleName": "MobWithBidMadAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "OpenBiddingHelper",
+        "printedName": "OpenBiddingHelper",
+        "declKind": "Import",
+        "moduleName": "MobWithBidMadAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobWithBidMadAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MobWithADSDKFramework",
+        "printedName": "MobWithADSDKFramework",
+        "declKind": "Import",
+        "moduleName": "MobWithBidMadAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "OpenBiddingHelper",
+        "printedName": "OpenBiddingHelper",
+        "declKind": "Import",
+        "moduleName": "MobWithBidMadAdapter"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithBidMadAdapter\/MobWithBidMadAdapter\/DHLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 238,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithBidMadAdapter\/MobWithBidMadAdapter\/DHLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 394,
+      "length": 22,
+      "value": "\"MobWithBidMadAdapter\""
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithBidMadAdapter\/MobWithBidMadAdapter\/DHLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 767,
+      "length": 22,
+      "value": "\"MobWithBidMadAdapter\""
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithBidMadAdapter\/MobWithBidMadAdapter\/DHLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 1033,
+      "length": 21,
+      "value": "\"yyyy-MM-dd HH:mm:ss\""
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithBidMadAdapter\/MobWithBidMadAdapter\/Loader\/MWBidMadRewardAd.swift",
+      "kind": "BooleanLiteral",
+      "offset": 542,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithBidMadAdapter\/MobWithBidMadAdapter\/MobWithBidMadAdapter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 314,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithBidMadAdapter\/MobWithBidMadAdapter\/MobWithBidMadAdapter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 352,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithBidMadAdapter\/MobWithBidMadAdapter\/MobWithBidMadAdapter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 395,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithBidMadAdapter\/MobWithBidMadAdapter\/MobWithBidMadAdapter.swift",
+      "kind": "Array",
+      "offset": 597,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithBidMadAdapter\/MobWithBidMadAdapter\/Loader\/MWBidMadInterstitialAd.swift",
+      "kind": "BooleanLiteral",
+      "offset": 569,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}
